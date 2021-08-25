@@ -1,0 +1,274 @@
+* { 
+margin:0;
+padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    width: 100%;
+    background-color: #fff;
+}
+nav ul {
+ margin-left: 30px;   
+}
+.navbar li {
+ font-weight: bold;   
+}
+form {
+position: relative;
+}
+
+.serchi {
+    position: absolute;
+    top:12px;
+    left:190px;
+    color: rgb(255, 40, 40);
+}
+.navbar link :hover {
+    color:rgb(255, 40, 40)}
+  
+.navbar ul :hover {
+    color: rgb(255, 40, 40);
+}
+
+.signbtu :active {
+    background-color: black;
+    color: #fff;
+}
+
+
+.herobox {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+  background-color: rgba(248, 249, 248, 0.801);
+}
+
+.herocontent{
+    padding-top: 20px;
+   
+}
+.herotext {
+width:100%;
+
+}
+
+.hero-card-box {
+   
+    padding:50px;
+}
+.hero-card-text h1 {
+    font-family: 'Nunito', sans-serif; 
+font-size:48px;
+margin-bottom: 30px;
+}
+.hero-input {
+    margin-top:30px;
+}
+.hero-card-text ul li {
+    display: inline-block;
+    padding-right: 10px;
+}
+.hero-card-text ul li a {
+    color: black;
+}
+.heroimg {
+  width:100%;
+   
+ 
+}
+
+.hero-bg{
+    overflow: hidden;
+    padding-left:70px;
+}
+
+
+.headline {
+width: 100%;
+
+
+}
+.headline-box {
+    background-color:#fff;
+}
+.single-banner-box i {
+    font-size: 50px;
+   margin-left: 70px;
+   margin-bottom: 5px;
+}
+
+.course {
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+   
+
+}
+.course-tittle {
+ width:500px;
+ margin: auto;
+ text-align: center;
+ 
+ padding-top:30px;
+ padding-bottom: 30px;
+}
+
+.course-box {
+    width: 100%;
+    height: auto;
+    margin-left:40px;
+   
+}
+
+.course-cards {
+    width:600px;
+    height:auto;
+   
+    display:inline-block;
+    position: relative;
+    margin-top: 10px;
+}
+
+
+.course-img {
+   
+    height:150px;
+    box-sizing: border-box;
+    overflow: hidden;
+
+}
+
+.course-card-text {
+   
+    width:auto;
+    position: absolute;
+    top:0px;
+    left:230px
+}
+.c-c-t-p1 {
+    font-size:28px;
+     font-weight: bold;
+    
+}
+.c-c-t-p2 {
+    font-size:20px;
+     font-weight: bold;
+
+}
+
+.course-btn {
+    
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.course-btn button { margin-bottom: 20px;
+    
+}
+
+.Learning {
+    width: 100%;
+    height:auto;
+}
+
+.learning-tittel {
+    width:500px;
+    height:auto;
+    margin: auto;
+     padding-top:70px;
+     padding-bottom:70px;
+    text-align: center;
+    font-family: Nunito;
+    
+}
+
+.learning-tittel h2 {
+    font-weight: bold;
+}
+
+
+
+.learning-cards {
+
+    width: 100%;
+    height:auto;
+   
+
+}
+.learning-border {
+  
+  
+    margin:auto;
+    
+
+}
+
+.learning-card {
+margin-left:20px;
+display: inline-block;
+    width:400px;
+    height:auto;
+    
+}
+.learning-card i {
+    font-size: 50px;
+    padding-bottom: 20px;}
+
+    .learning-card h4 {
+    font-weight: bold;}
+    .learning-card a {
+        font-weight: bold;
+    text-decoration: none;
+color:rgb(255, 40, 40);}
+
+
+
+.learning-content {
+    width: 100%;
+    height:auto;
+    margin-bottom: 50px;
+   
+    margin-top:50px;
+  
+}
+
+.learning-contents {
+    width:auto;
+    height:auto;
+  
+    margin: 5px;
+    display: inline-block;
+}
+
+.learning-content-text {
+    padding-left: 20px;
+    width: 500px;
+    height:370px;
+}
+iframe {
+    margin-left: 20px;
+    height:370px;
+    width: 700px;
+
+}
+.learning-content-text h3 {  
+    font-size: 35px;
+     font-family: serif;
+     font-weight: bold;
+
+}
+
+
+.Categorie-box {
+    width: 100%;
+    height: 1000px;
+    background-color: yellow;
+    margin-top: 50px;
+}
+
+
+
+

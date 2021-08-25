@@ -1,0 +1,618 @@
+@media screen and (max-width:1400px) {
+
+    .Learning {
+        width: 100%;
+        height: 1000px;
+      
+    }
+    
+    .learning-tittel {
+        width:600px;
+        height:auto;
+        margin: auto;
+         padding-top:70px;
+         padding-bottom:70px;
+        text-align: center;
+        font-family: Nunito;
+       
+    }
+    
+    .learning-tittel h2 {
+        font-size:35px;
+        font-weight: bold;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+
+}
+
+
+
+@media screen and (max-width:721px) {
+
+    .Learning {
+        width: 100%;
+        height: 1000px;
+     
+    }
+    
+    .learning-tittel {
+        width:400px;
+        height:auto;
+        margin: auto;
+         padding-top:70px;
+         padding-bottom:70px;
+        text-align: center;
+        font-family: Nunito;
+       
+    }
+    
+    .learning-tittel h2 {
+        font-size:30px;
+        font-weight: bold;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+}
+
+    @media screen and (max-width:425px)
+    {
+
+        .Learning {
+            width: 100%;
+            height: 1000px;
+          
+        }
+        
+        .learning-tittel {
+            width:250px;
+            height:auto;
+            margin: auto;
+             padding-top:70px;
+             padding-bottom:70px;
+            text-align: center;
+            font-family: Nunito;
+           
+        }
+        
+        .learning-tittel h2 {
+            font-size:30px;
+            font-weight: bold;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+
+    }
+
+
+    
+@media screen and (max-width:1326px) {
+
+
+    .learning-card {
+        margin-left:20px;
+        display: inline-block;
+            width:350px;
+            height:auto;
+           
+        
+        }
+        
+        .learning-border {
+  
+          
+            margin:auto;
+            margin-left: 50px;
+            
+        
+        }
+        
+}
+
+    
+@media screen and (max-width:1216px) {
+
+
+    .learning-card {
+        margin-left:20px;
+        display: inline-block;
+            width:330px;
+            height:auto;
+        
+    
+        }
+        
+        .learning-border {
+  
+           
+            margin:auto;
+            margin-left:35px;
+            
+        
+        }
+        
+}
+
+    
+@media screen and (max-width:1129px) {
+
+
+    .learning-card {
+        margin-left:20px;
+        display: inline-block;
+            width:300px;
+            height:auto;
+           
+        
+        }
+        
+        .learning-border {
+  
+           
+            margin:auto;
+            margin-left:15px;
+            
+        
+        }
+        .learning-card h4 {
+            font-weight: bold;
+        font-size: 30px;}
+}
+
+@media screen and (max-width:1033px) {
+
+
+    .learning-card {
+        margin-left:20px;
+        display: inline-block;
+            width:290px;
+            height:auto;
+         
+        
+        }
+        
+        .learning-border {
+  
+            
+            margin:auto;
+            margin-left:10px;
+            
+        
+        }
+        .learning-card h4 {
+            font-weight: bold;
+        font-size: 30px;}
+}
+
+
+@media screen and (max-width:991px) {
+
+
+    .learning-card {
+        margin-left:20px;
+        display: inline-block;
+            width:450px;
+            height:auto;
+            
+            text-align: center;
+        }
+        .learning-card-last {
+            margin-left:300px;
+            margin-top: 20px;
+    
+        }
+
+        .learning-border {
+  
+          
+          
+            margin-left:10px;
+            
+        
+        }
+        .learning-card h4 {
+            font-weight: bold;
+        font-size: 30px;}
+}
+
+
+@media screen and (max-width:982px) {
+
+
+    .learning-card {
+        margin-left:20px;
+        display: inline-block;
+            width:400px;
+            height:auto;
+            
+            text-align: center;
+        }
+        .learning-card-last {
+            margin-left:250px;
+            margin-top: 20px;
+    
+        }
+
+        .learning-border {
+  
+          
+          
+            margin-left:10px;
+            
+        
+        }
+        .learning-card h4 {
+            font-weight: bold;
+        font-size:28px;}
+}
+
+@media screen and (max-width:882px) {
+
+
+    .learning-card {
+        margin-left:20px;
+        display: inline-block;
+            width:340px;
+            height:auto;
+           
+           text-align: center;
+        }
+        .learning-card-last {
+            margin-left:230px;
+            margin-top: 20px;
+    
+        }
+
+        .learning-border {
+  
+           
+          
+            margin-left:30px;
+            
+        
+        }
+        .learning-card h4 {
+            font-weight: bold;
+        font-size:28px;}
+}
+
+@media screen and (max-width:883px) {
+
+
+    .learning-card {
+        margin-left:20px;
+        display: inline-block;
+            width:300px;
+            height:auto;
+          
+           text-align: center;
+        }
+        .learning-card-last {
+            margin-left:200px;
+            margin-top: 20px;
+    
+        }
+
+        .learning-border {
+  
+           
+          
+            margin-left:30px;
+            
+        
+        }
+        .learning-card h4 {
+            font-weight: bold;
+        font-size:28px;}
+}
+
+@media screen and (max-width:703px) {
+
+
+    .learning-card {
+        margin-left:20px;
+        display: inline-block;
+            width:270px;
+            height:auto;
+            
+           text-align: center;
+        }
+        .learning-card-last {
+            margin-left:180px;
+            margin-top: 20px;
+    
+        }
+
+        .learning-border {
+  
+           
+          
+            margin-left:30px;
+            
+        
+        }
+        .learning-card h4 {
+            font-weight: bold;
+            font-size:22px;}
+
+
+         .Learning-card p {
+             font-size: 8px;
+         }   
+}
+
+
+@media screen and (max-width:643px) {
+
+
+    .learning-card {
+        margin-left:20px;
+        display: inline-block;
+            width:250px;
+            height:auto;
+           
+           text-align: center;
+        }
+        .learning-card-last {
+            margin-left:150px;
+            margin-top: 20px;
+    
+        }
+
+        .learning-border {
+  
+            
+          
+            margin-left:20px;
+            
+        
+        }
+        .learning-card h4 {
+            font-weight: bold;
+            font-size:20px;}
+
+
+         .Learning-card p {
+             font-size:6px;
+         }   
+}
+
+@media screen and (max-width:592px) {
+
+
+    .learning-card {
+        margin-left:20px;
+            margin-bottom:20px;
+            width:350px;
+            height:auto;
+           
+           text-align: center;
+        }
+       
+
+        .learning-border {
+  
+          
+            margin-left: 50px;
+            
+        
+        }
+        .learning-card h4 {
+            font-weight: bold;
+            font-size:20px;}
+
+
+         .Learning-card p {
+             font-size:6px;
+         }   
+        }
+
+        
+@media screen and (max-width:470px) {
+
+
+    .learning-card {
+        margin-left:20px;
+            margin-bottom:20px;
+            width:300px;
+            height:auto;
+           
+           text-align: center;
+        }
+       
+
+        .learning-border {
+  
+            
+          
+            margin-left:10px;
+            
+        
+        }
+        .learning-card h4 {
+            font-weight: bold;
+            font-size:20px;}
+
+
+         .Learning-card p {
+             font-size:6px;
+         }   
+        }
+
+        
+@media screen and (max-width:362px) {
+
+
+    .learning-card {
+        margin-left:20px;
+            margin-bottom:20px;
+            width:250px;
+            height:auto;
+           
+           text-align: center;
+        }
+       
+
+        .learning-border {
+  
+            
+          
+            margin-left: 10px;
+            
+        
+        }
+        .learning-card h4 {
+            font-weight: bold;
+            font-size:18px;}
+
+
+         .Learning-card p {
+             font-size:6px;
+         }   
+        }
+
+
+
+ @media screen and (max-width:1272px) {
+
+    
+    .learning-content-text {
+        padding-left: 20px;
+        width: 500px;
+        height:370px;
+    }
+    iframe {
+        margin-left: 20px;
+        height:370px;
+        width: 600px;
+    
+    }
+
+        }
+
+        @media screen and (max-width:1272px) {
+
+            .learning-content-text {
+                padding-left: 20px;
+                width: 450px;
+                height:370px;
+            }
+            iframe {
+                margin-left: 20px;
+                height:370px;
+                width:500px;
+            
+            }
+        
+                }
+        
+                
+        @media screen and (max-width:1026px) {
+
+            .learning-content-text {
+                padding-left: 20px;
+                width: 430px;
+                height:370px;
+            }
+            iframe {
+                margin-left: 20px;
+                height:370px;
+                width:450px;
+            
+            }
+        
+                }
+
+
+                @media screen and (max-width:991px) {
+
+                    .learning-contents {
+                        width:100%;
+                        height:auto;
+                   
+                    }
+                    
+                     
+                    .learning-content-text {
+                        padding-left: 20px;
+                        width: 600px;
+                        height:370px;
+                        margin: auto;
+                        text-align: center;
+                    }
+                    .learning-content-video{
+                        margin: auto;
+                        text-align: center;
+                    }
+                    iframe {
+                        height:370px;
+                        width:600px;
+                     
+                    
+                    }
+                
+                        }
+
+                        
+                        
+                @media screen and (max-width:651px) {
+
+                    .learning-contents {
+                        width:100%;
+                        height:auto;
+                   
+                    }
+                    
+                     
+                    .learning-content-text {
+                        padding-left: 20px;
+                        width: 400px;
+                        height:370px;
+                        margin: auto;
+                        text-align: center;
+                    }
+                    .learning-content-video{
+                        margin: auto;
+                        text-align: center;
+                    }
+                    iframe {
+                        height:370px;
+                        width:400px;
+                     
+                    
+                    }
+                
+                        }
+                             
+                @media screen and (max-width:457px) {
+
+                    .learning-contents {
+                        width:100%;
+                        height:auto;
+                   
+                    }
+                    
+                     
+                    .learning-content-text {
+                        padding-left: 20px;
+                        width: 250px;
+                        height:auto;
+                        margin: auto;
+                        text-align: center;
+                    }
+                    .learning-content-video{
+                        margin: auto;
+                        text-align: center;
+                    }
+                    iframe {
+                        height:auto;
+                        width:250px;
+                     
+                    
+                    }
+                
+                        }
+                    

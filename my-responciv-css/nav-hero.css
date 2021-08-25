@@ -1,0 +1,104 @@
+@media only screen and (max-width:1090px) {
+  .serchi{
+      font-size: 0px;
+      color:#fff;
+  }
+}
+
+
+@media only screen and (max-width:1300px) {
+    .navbar li {
+        font-size:15px;
+        }
+}
+@media only screen and (max-width:1265px) {
+    .navbar li {
+        font-size:13px;
+        }
+}
+
+@media only screen and (max-width:1196px) {
+    .navbar li {
+        font-size:11px;
+        }
+}
+@media only screen and (max-width:1129px) {
+    .navbar li {
+        font-size:10px;
+        }
+}
+
+@media screen and (max-width:995px) {
+   .hero-card-text h1 {
+      text-align: center;
+    }
+  }
+  
+@media screen and (max-width:995px) {
+    .hero-card-text p {
+       text-align: center;
+     }
+    }
+  @media screen and (max-width:600px) {
+    .hero-card-text h1 {
+       text-align: center;
+       font-size: 32px;
+      }
+   }
+
+   @media screen and (max-width:600px) {
+    .hero-card-text h1 {
+       text-align: center;
+       font-size: 32px;
+      }
+   }
+ 
+   
+   @media screen and (max-width:992px) {
+    .heroimg {
+  
+    text-align: center;
+      }
+   }
+ 
+   @media screen and (max-width:992px) {
+    .heroimg img {
+
+         height: 500px;
+   
+      }
+   }
+ 
+    
+   @media screen and (max-width:560px) {
+    .heroimg {
+  
+    text-align: center;
+      }
+   }
+ 
+   @media screen and (max-width:560px) {
+    .heroimg img {
+
+         height:300px;
+   
+      }
+   }
+ 
+   @media screen and (max-width:380px) {
+    .heroimg {
+   
+    text-align: center;
+      }
+   }
+ 
+   @media screen and (max-width:380px) {
+    .heroimg img {
+
+         height:220px;
+   
+      }
+   }
+
+     
+ /***** End *****/
